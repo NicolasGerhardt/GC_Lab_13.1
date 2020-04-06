@@ -13,14 +13,14 @@ Write SQL queries to do the following:
 - [x] Add a new customer to the customers table. You can use whatever values.
 - [x] Update all ShipRegion to the value ‘EuroZone’ in the Orders table, where the ShipCountry is equal to France.
 - [x] Delete all orders from OrderDetails that have quantity of 1.
-- [ ] Calculate the average, max, and min of the quantity at the orderdetails table.
-- [ ] Calculate the average, max, and min of the quantity at the orderdetails table, grouped by the orderid.
-- [ ] Find the CustomerID that placed order 10290 (Orders table)
-- [ ] Do an inner join, left join, right join on orders and customers tables.
-- [ ] Use a join to get the ship city and ship country of all the orders which are associated with an employee who is in London.
-- [ ]  Use a join to get the ship name of all orders that include a discontinued product. (See Orders, OrderDetails, and Products. 1 means discontinued.)
-- [ ] Get employees’ firstname for all employees who report to no one.
-- [ ] Get employees’ firstname for all employees who report to Andrew.
+- [x] Calculate the average, max, and min of the quantity at the orderdetails table.
+- [x] Calculate the average, max, and min of the quantity at the orderdetails table, grouped by the orderid.
+- [x] Find the CustomerID that placed order 10290 (Orders table)
+- [x] Do an inner join, left join, right join on orders and customers tables.
+- [x] Use a join to get the ship city and ship country of all the orders which are associated with an employee who is in London.
+- [x]  Use a join to get the ship name of all orders that include a discontinued product. (See Orders, OrderDetails, and Products. 1 means discontinued.)
+- [x] Get employees’ firstname for all employees who report to no one.
+- [x] Get employees’ firstname for all employees who report to Andrew.
 
 ## Extended Challenges
 Optional additional query practice:
