@@ -24,21 +24,21 @@ Write SQL queries to do the following:
 
 ## Extended Challenges
 Optional additional query practice:
-- [ ] Select all records from the customers table.
-- [ ] Find all customers living in London or Paris
-- [ ] Make a list of cities where customers are coming from. The list should not have duplicates or nulls.
-- [ ] Show a sorted list of employees’ first names.
-- [ ] Find the average of employees’ salaries
-- [ ] Show the first name and last name for the employee with the highest salary.
-- [ ] Find a list of all employees who have a BA
-- [ ] Find total for each order
-- [ ] Get a list of all employees who got hired between 1/1/1994 and today
-- [ ] Find how long employees have been working for Northwind (in years!)
-- [ ] Get a list of all products sorted by quantity (ascending and descending order)
-- [ ] Find all products that are low on stock (quantity less than 6)
-- [ ] Find a list of all discontinued products.
-- [ ] Find a list of all products that have Tofu in them.
-- [ ] Find the product that has the highest unit price.
-- [ ] Get a list of all employees who got hired after 1/1/1993
-- [ ] Get all employees who have title : “Ms.” And “Mrs.”
-- [ ] Get all employees who have a Home phone number that has area code 206
+- [x] Select all records from the customers table.
+- [x] Find all customers living in London or Paris
+- [x] Make a list of cities where customers are coming from. The list should not have duplicates or nulls.
+- [x] Show a sorted list of employees’ first names.
+- [x] Find the average of employees’ salaries
+- [x] Show the first name and last name for the employee with the highest salary.
+- [x] Find a list of all employees who have a BA
+- [x] Find total for each order
+- [x] Get a list of all employees who got hired between 1/1/1994 and today
+- [x] Find how long employees have been working for Northwind (in years!)
+- [x] Get a list of all products sorted by quantity (ascending and descending order)
+- [x] Find all products that are low on stock (quantity less than 6)
+- [x] Find a list of all discontinued products.
+- [x] Find a list of all products that have Tofu in them.
+- [x] Find the product that has the highest unit price.
+- [x] Get a list of all employees who got hired after 1/1/1993
+- [x] Get all employees who have title : “Ms.” And “Mrs.”
+- [x] Get all employees who have a Home phone number that has area code 206
